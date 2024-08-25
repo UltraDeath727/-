@@ -1,1 +1,3 @@
+//控制程序启动时的每日一句
+//是否会显示与获取.
 dailysentence=false
